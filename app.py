@@ -23,8 +23,10 @@ from fintech.report_generator import generate_financial_report
 load_dotenv()
 
 # -------------------- OPENAI CLIENT --------------------
+api_key = st.secrets["OPENAI_API_KEY"]
+
 client = OpenAI(
-    api_key=os.getenv("OPENAI_API_KEY")
+    api_key=api_key
 )
 
 # -------------------- SESSION --------------------
