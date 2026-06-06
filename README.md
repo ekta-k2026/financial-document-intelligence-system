@@ -153,7 +153,7 @@ Risk Engine
 * Investment intelligence
 * Advanced anomaly detection
 * Real-time fraud monitoring
-* Cloud deployment
+
 
 ---
 
