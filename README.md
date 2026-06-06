@@ -1,5 +1,15 @@
 # Financial Document Intelligence System
 
+## Live Demo
+
+🔗 https://financial-document-intelligence-system-xkmrzm9kmyyn45phuzxqy8.streamlit.app/
+
+
+## GitHub Repository
+
+🔗 https://github.com/ekta-k2026/financial-document-intelligence-system
+
+
 ## Overview
 
 Financial Document Intelligence System is an AI-powered fintech platform that analyzes financial documents, extracts insights, detects fraud patterns, performs risk assessment, and answers financial questions using Retrieval-Augmented Generation (RAG).
